@@ -1,0 +1,30 @@
+1-gram
+('#1SG', 18870)
+('Airdrop', 16721)
+('&amp;', 16553)
+('@DocumentingBTC:', 11763)
+('enter:-', 11112)
+('1SG', 9443)
+('cross-chain', 9151)
+('GIVEAWAY', 6861)
+
+
+
+2-grams
+('!', '!'), 27762)
+('#', '1SG'), 18870)
+('&', 'amp'), 17880)
+('amp', ';'), 17880)
+('@', 'DocumentingBTC'), 12171)
+('enter', ':'), 11440)
+('lucky', 'follower'), 11183)
+('retweets', 'this'), 11161)
+('one', 'lucky'), 10785)
+('#', 'Airdrop'), 10602)
+('Token', 'for'), 9439)
+('official1SG', ':'), 9435)
+('LIVEParticipate', 'in'), 9435)
+('#', 'BinanceSmartChain🔥')
+('supports', 'cross-chain'), 9114)
+('tokens', 'worth'), 6400)
+('🎉🎉Next', 'Big'), 4905)

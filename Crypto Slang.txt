@@ -1,0 +1,81 @@
+source: https://coinmarketcap.com/alexandria/glossary
+
+Airdrop: A marketing campaign that distributes a specific cryptocurrency or token to an audience.
+
+All-Time-High (ATH): The highest point (in price, in market capitalization) that a cryptocurrency has been in history. *see All-Time-Low (ATL).
+
+All-Time-Low (ATL): The lowest point (in price, in market capitalization) that a cryptocurrency has been in history. *see All-Time-High (ATH).
+
+Anti-Fragile: A quality attached to an asset that means it performs better when exposed to volatility and shocks.
+
+Arbitrage: Arbitrage is the practice of quickly buying and selling the same asset in different markets to take advantage of price differences between the markets.
+
+Ashdraked: The complete loss of a trader's total invested capital, specifically as a result of shorting Bitcoin.
+
+Astroturfing: The practice of disguising marketing campaigns or otherwise sponsored messaging as the unprompted views of genuine community members.
+
+Bagholder: An investor who continues to hold large amounts of a specific coin or token, regardless of its performance.
+
+Bear: Someone who believes that prices in a given market will decline over an extended period. Such a person might be referred to as “bearish.”
+
+Bear Trap: The attempted manipulation of a specific cryptocurrency’s price, based on the coordinated activity of a group of traders.
+
+Bubble: When an asset is traded at a price exceeding that asset's intrinsic value.
+
+Bull: A person that is optimistic and confident that market prices will increase, this person is also known to be "bullish" about the market or price.
+
+Bull Trap: A bull trap occurs when a steadily declining asset appears to reverse and go upward, but soon resumes its downward trend.
+
+Burned: Cryptocurrency tokens or coins are considered “burned” when they have been purposely and permanently removed from circulation.
+
+Buy The (F*******) Dip (BTD/BTFD): An enthusiastic exclamation by supporters of a cryptocurrency to buy while prices are at a low point.
+
+Buy Wall: A buy wall is a disproportionately large buy limit order placed on a cryptocurrency exchange.
+
+Correction: A correction is a pullback of an asset’s price of at least 10% to adjust for over-valuation.
+
+Dead Cat Bounce: A temporary recovery in prices after a prolonged decrease.
+
+Deflation: A decline in the general level of prices for goods and services in an economy.
+
+Dump: A sudden sell-off of digital assets.
+
+Dumping: A collective market sell-off that occurs when large quantities of a particular cryptocurrency are sold in a short period of time.
+
+FOMO: An acronym that stands for “Fear of Missing Out” and in the context of investing, refers to the feeling of apprehension for missing out on a potentially profitable investment opportunity and regretting it later. *see JOMO.
+
+FUD: An acronym that stands for “Fear, Uncertainty and Doubt.” It is a strategy to influence perception of certain cryptocurrencies or the cryptocurrency market in general by spreading negative, misleading or false information. *see FUDster.
+
+FUDster: Someone that is spreading FUD.
+
+HODL: A type of passive investment strategy where you hold an investment for a long period of time, regardless of any changes in the price or markets. The term first became famous due to a typo made in a Bitcoin forum, and the term is now commonly expanded to stand for “Hold On for Dear Life.”
+
+Inflation: A general increase in prices and fall in the purchasing value of money.
+
+JOMO: The opposite state of JOMO stands for “Joy of Missing Out.”
+
+Lambo: Slang for the type of car that many crypto enthusiasts aspire to buy when their digital assets “moon” — or rise in value substantially.
+
+Liveness: A guarantee that a system will continue to provide data, and that no centralized authority can shut down its services.
+
+Moon: A situation where there is a continuous upward movement in the price of a cryptocurrency. Often used in communities to question when a cryptocurrency will experience such a phenomenon, saying “When moon?” It is usually combined with “When Lambo?”
+
+Pump and Dump (P&D) Scheme: A form of securities fraud involving the artificial inflation of the price of a cryptocurrency with false and misleading positive statements in order to sell previously-cheaply purchased stock at a higher price.
+
+Sell Wall: A situation where a large limit order has been placed to sell when a cryptocurrency reaches a certain value.
+
+Shilling: The act of enthusiastically promoting a cryptocurrency or ICO project.
+
+Shitcoin: A coin with no obvious potential value or usage.
+
+Short: A trading technique in which a trader borrows an asset in order to sell it, with the expectation that the price will continue to decline. In the event that the price does decline, the short seller will then buy the asset at this lower price in order to return it to the lender of the asset, making the difference in profit.
+
+Stablecoin: A cryptocurrency with extremely low volatility, sometimes used as a means of portfolio diversification. Examples include gold-backed cryptocurrency or fiat-pegged cryptocurrency.
+
+This Is Gentlemen: Originally an error in writing the full “This is it, gentlemen”. It is now used as an introduction for good news.
+
+Wash Trade: A form of market manipulation in which investors create artificial activity in the marketplace by simultaneously selling and buying the same cryptocurrencies.
+
+Weak Hands: An investor prone to panic selling at the first sign of a price decline.
+
+Whale: A term used to describe investors who have uncommonly large amounts of crypto, especially those with enough funds to manipulate the market. *see Fish/Minnow and Dolphin.
