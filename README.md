@@ -10,3 +10,5 @@ specific terminology in the calculations, by visualising the Pearson, Kendall an
 of Bitcoin and by extracting real time data, feeding them to the XGBoost algorithm and using them alongside other features to predict the price in the next minute.
 The results displayed through graphs and measured according to certain error metrics seem quite promising, with a Root Mean Squared Error score of 27 USD for the full dataset 
 and 24.5 USD for the dataset without bots.
+
+Onedrive link for the dataset: https://uthnoc-my.sharepoint.com/:x:/g/personal/ftzavellos_o365_uth_gr/EZy919GZ9ntKqaT4KxMgevcBEmQKZ9wDvcUwIUO1I-Pl0A?e=VuNgI2
